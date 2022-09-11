@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\obj\Debug\net6.0\Example_02.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\obj\Debug\net6.0\Example_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\obj\Debug\net6.0\Example_02.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\obj\Debug\net6.0\Example_02.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\obj\Debug\net6.0\Example_02.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\bin\Debug\net6.0\Example_02.exe
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\bin\Debug\net6.0\Example_02.deps.json
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\bin\Debug\net6.0\Example_02.runtimeconfig.json
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\bin\Debug\net6.0\Example_02.dll
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\bin\Debug\net6.0\Example_02.pdb
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\obj\Debug\net6.0\Example_02.dll
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\obj\Debug\net6.0\refint\Example_02.dll
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\obj\Debug\net6.0\Example_02.pdb
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\obj\Debug\net6.0\Example_02.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\Lesson_03\Example_02\obj\Debug\net6.0\ref\Example_02.dll
